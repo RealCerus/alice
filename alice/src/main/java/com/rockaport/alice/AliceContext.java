@@ -169,6 +169,7 @@ public class AliceContext {
          * No padding
          */
         NO_PADDING("NoPadding"),
+        ZERO_PADDING("ZeroBytePadding"),
         /**
          * The padding scheme described in <a href="http://www.emc.com/emc-plus/rsa-labs/standards-initiatives/pkcs-5-password-based-cryptography-standard.htm">
          * RSA Laboratories, "PKCS #5: Password-Based Encryption Standard," version 1.5, November 1993</a>
